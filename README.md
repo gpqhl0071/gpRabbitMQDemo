@@ -10,9 +10,9 @@ demo
 
 - [发布/订阅](https://www.rabbitmq.com/tutorials/tutorial-three-python.html)
 
-[发布](src/main/java/com/gp/rabbitmq/EmitLog.java)
+[src/main/java/com/gp/rabbitmq/EmitLog.java](src/main/java/com/gp/rabbitmq/EmitLog.java)
 
-[订阅](src/main/java/com/gp/rabbitmq/ReceiveLogs.java)
+[src/main/java/com/gp/rabbitmq/ReceiveLogs.java](src/main/java/com/gp/rabbitmq/ReceiveLogs.java)
 
 - [路由](https://www.rabbitmq.com/tutorials/tutorial-four-python.html) 
 
